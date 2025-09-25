@@ -38,6 +38,8 @@ class PayloadInjectionTool:
                 "admin'--"
             ],
 
+
+
             'command_injection': [
                 "; ls -la",
                 "| whoami",
