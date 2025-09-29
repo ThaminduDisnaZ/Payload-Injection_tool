@@ -291,4 +291,5 @@ def main():
     tool.generate_report(args.output)
 
 if __name__ == "__main__":
+
     main()
